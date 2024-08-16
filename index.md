@@ -14,7 +14,7 @@ hero:
       link: /gameplay/ji-chu-ru-men-zhi-nan
     - theme: alt
       text: 规则详情
-      link: /gamerule/rules
+      link: /gamerule/gui-ze-xiang-qing
 
 features:
   - title: 保持更新
