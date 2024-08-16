@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Hello BoostedMC"
-  text: "有责任的团队"
+  text: "有责任感的团队"
   tagline: 持续学习，不断进步
   image:
     src: /background.png
