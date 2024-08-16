@@ -7,7 +7,7 @@ export default defineConfig({
   description: "BMC 团队下所有产品的 Wiki",
 
   themeConfig: {
-    logo: "/logo.svg",
+    logo: "${base}logo.svg",
     head: [["link", { rel: "icon", href: "${base}favicon.ico" }]],
     // https://vitepress.dev/reference/default-theme-config
     nav: [
