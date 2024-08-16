@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/BoostedMC-Website/",
+  // base: "/BoostedMC-Website/",
   title: "Hello BoostedMC",
   description: "BMC 团队下所有产品的 Wiki",
 
