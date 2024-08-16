@@ -7,7 +7,8 @@ export default defineConfig({
 
   themeConfig: {
     logo: "/logo.svg",
-    head: ["link", { rel: "icon", href: "/favicon.ico" }],
+    head: ["link", { rel: "icon", href: "/BoostedMC-Website/favicon.ico" }],
+    base: "/BoostedMC-Website/",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "首页", link: "/" },
